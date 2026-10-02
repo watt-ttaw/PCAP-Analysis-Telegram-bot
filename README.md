@@ -1,4 +1,4 @@
-# PCAP Analysis Bot
+# PCAP Analysis Telegram Bot
 
 A Telegram bot that analyzes Wireshark capture files with **tshark** and explains them in plain English using an LLM through **OpenRouter**. Send it a `.pcap` or `.pcapng` file, get a structured report and an AI verdict, then ask follow-up questions in normal language.
 

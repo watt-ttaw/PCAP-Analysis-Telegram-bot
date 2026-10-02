@@ -46,7 +46,7 @@ bot.py       replies with the AI analysis + the raw report, then deletes the fil
 ### Windows
 
 ```bat
-git clone https://github.com/watt-ttaw/pcap-analysis-bot.git
+git clone https://github.com/watt-ttaw/pcap-analysis-telegram-bot.git
 cd pcap-analysis-bot
 python -m venv venv
 venv\Scripts\activate
@@ -66,7 +66,7 @@ On Windows you can also double-click `start-bot.bat`. The bot finds `tshark.exe`
 
 ```bash
 sudo apt update && sudo apt install -y tshark python3-venv
-git clone https://github.com/watt-ttaw/pcap-analysis-bot.git
+git clone https://github.com/watt-ttaw/pcap-analysis-telegram-bot.git
 cd pcap-analysis-bot
 python3 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt

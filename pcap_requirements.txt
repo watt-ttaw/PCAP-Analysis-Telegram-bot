@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+requests
+pandas
+matplotlib
+networkx
+reportlab
+python-telegram-bot
